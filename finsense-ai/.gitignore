@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Large datasets (download separately — see README)
+datasets/raw/creditcard.csv
+datasets/raw/paysim.csv
+datasets/processed/anomaly_detection_results.csv
+
+# Local backup of the pre-refactor app
+app_original_backup.py
+
+# Local accounts (hashed passwords) — never commit
+.data/

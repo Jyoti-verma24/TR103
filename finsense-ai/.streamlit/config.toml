@@ -1,0 +1,11 @@
+[theme]
+base = "light"
+primaryColor = "#1C4A3A"
+backgroundColor = "#ECE8DA"
+secondaryBackgroundColor = "#FBF9F1"
+textColor = "#1E2430"
+borderColor = "#D6D0BE"
+baseRadius = "4px"
+
+[server]
+maxUploadSize = 300
