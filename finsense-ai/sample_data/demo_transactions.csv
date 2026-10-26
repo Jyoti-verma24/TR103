@@ -1,0 +1,475 @@
+Date,Description,Category,Amount,Type
+2025-01-01,Amazon.in order,Shopping,797,Expense
+2025-01-01,Salary - Acme Tech Pvt Ltd,Salary,65000,Income
+2025-01-01,Uber auto,Transport,159,Expense
+2025-01-02,Cult.fit membership,Health & Fitness,1500,Expense
+2025-01-02,Swiggy - Biryani Blues,Food & Drink,334,Expense
+2025-01-03,Rent - Mr. Sharma (landlord),Rent,18000,Expense
+2025-01-03,Swiggy - Biryani Blues,Food & Drink,631,Expense
+2025-01-04,Swiggy - Biryani Blues,Food & Drink,332.8,Expense
+2025-01-05,DMart groceries,Groceries,2309,Expense
+2025-01-05,HDFC Mutual Fund SIP,Investment,5000,Expense
+2025-01-05,Zomato - Chai Point,Food & Drink,427.2,Expense
+2025-01-06,Rapido bike,Transport,140,Expense
+2025-01-07,Netflix subscription,Entertainment,649,Expense
+2025-01-08,Swiggy - Meghana Foods,Food & Drink,214,Expense
+2025-01-10,BESCOM Electricity bill,Utilities,1492,Expense
+2025-01-10,Swiggy - Biryani Blues,Food & Drink,431,Expense
+2025-01-12,Airtel Xstream Fiber,Utilities,999,Expense
+2025-01-12,DMart groceries,Groceries,1981,Expense
+2025-01-12,Swiggy - Meghana Foods,Food & Drink,611.2,Expense
+2025-01-13,Zomato - Chai Point,Food & Drink,337,Expense
+2025-01-14,Rapido bike,Transport,127,Expense
+2025-01-15,Rapido bike,Transport,175,Expense
+2025-01-16,Rapido bike,Transport,129,Expense
+2025-01-17,Cafe Coffee Day,Food & Drink,415,Expense
+2025-01-17,Namma Metro recharge,Transport,266,Expense
+2025-01-18,PVR Cinemas,Entertainment,1210,Expense
+2025-01-18,Swiggy - Meghana Foods,Food & Drink,820.8,Expense
+2025-01-19,Zepto groceries,Groceries,2290,Expense
+2025-01-19,Zomato - Domino's,Food & Drink,896.0,Expense
+2025-01-20,Uber auto,Transport,79,Expense
+2025-01-20,Zomato - Chai Point,Food & Drink,500,Expense
+2025-01-21,Swiggy - Meghana Foods,Food & Drink,598,Expense
+2025-01-23,Uber auto,Transport,204,Expense
+2025-01-24,Swiggy - Meghana Foods,Food & Drink,329,Expense
+2025-01-24,Uber auto,Transport,68,Expense
+2025-01-26,BigBasket order,Groceries,2722,Expense
+2025-01-26,Zomato - Chai Point,Food & Drink,764.8,Expense
+2025-01-27,Namma Metro recharge,Transport,223,Expense
+2025-01-28,Uber auto,Transport,306,Expense
+2025-01-29,Uber auto,Transport,124,Expense
+2025-01-31,Uber auto,Transport,117,Expense
+2025-01-31,Zomato - Chai Point,Food & Drink,316,Expense
+2025-02-01,Salary - Acme Tech Pvt Ltd,Salary,65000,Income
+2025-02-02,BigBasket order,Groceries,1774,Expense
+2025-02-02,Cafe Coffee Day,Food & Drink,416.0,Expense
+2025-02-02,Cult.fit membership,Health & Fitness,1500,Expense
+2025-02-03,Decathlon,Shopping,3201,Expense
+2025-02-03,Nykaa order,Shopping,3072,Expense
+2025-02-03,Rent - Mr. Sharma (landlord),Rent,18000,Expense
+2025-02-04,Rapido bike,Transport,292,Expense
+2025-02-05,HDFC Mutual Fund SIP,Investment,5000,Expense
+2025-02-05,Rapido bike,Transport,139,Expense
+2025-02-06,Uber auto,Transport,285,Expense
+2025-02-06,Zomato - Domino's,Food & Drink,723,Expense
+2025-02-07,Netflix subscription,Entertainment,649,Expense
+2025-02-07,Uber auto,Transport,129,Expense
+2025-02-08,Swiggy - Meghana Foods,Food & Drink,676.8,Expense
+2025-02-09,DMart groceries,Groceries,1528,Expense
+2025-02-09,Zomato - Chai Point,Food & Drink,1065.6,Expense
+2025-02-10,BESCOM Electricity bill,Utilities,1287,Expense
+2025-02-12,Airtel Xstream Fiber,Utilities,999,Expense
+2025-02-13,Namma Metro recharge,Transport,217,Expense
+2025-02-13,Zomato - Domino's,Food & Drink,411,Expense
+2025-02-14,Cafe Coffee Day,Food & Drink,424,Expense
+2025-02-15,Apollo Pharmacy,Health & Fitness,497,Expense
+2025-02-15,Swiggy - Meghana Foods,Food & Drink,1064.0,Expense
+2025-02-16,BigBasket order,Groceries,1895,Expense
+2025-02-16,Cafe Coffee Day,Food & Drink,768.0,Expense
+2025-02-17,Uber auto,Transport,320,Expense
+2025-02-18,Namma Metro recharge,Transport,287,Expense
+2025-02-21,Swiggy - Biryani Blues,Food & Drink,291,Expense
+2025-02-21,Uber auto,Transport,214,Expense
+2025-02-22,Freelance - logo design client,Freelance,8000,Income
+2025-02-23,BigBasket order,Groceries,2594,Expense
+2025-02-28,Rapido bike,Transport,289,Expense
+2025-02-28,Swiggy - Meghana Foods,Food & Drink,559,Expense
+2025-03-01,BookMyShow - concert,Entertainment,1234,Expense
+2025-03-01,Salary - Acme Tech Pvt Ltd,Salary,65000,Income
+2025-03-02,Cult.fit membership,Health & Fitness,1500,Expense
+2025-03-02,DMart groceries,Groceries,1685,Expense
+2025-03-03,Rent - Mr. Sharma (landlord),Rent,18000,Expense
+2025-03-04,Rapido bike,Transport,151,Expense
+2025-03-04,Swiggy - Biryani Blues,Food & Drink,295,Expense
+2025-03-05,HDFC Mutual Fund SIP,Investment,5000,Expense
+2025-03-06,Cafe Coffee Day,Food & Drink,386,Expense
+2025-03-06,Decathlon,Shopping,2305,Expense
+2025-03-06,Rapido bike,Transport,275,Expense
+2025-03-07,Amazon.in order,Shopping,1299,Expense
+2025-03-07,Netflix subscription,Entertainment,649,Expense
+2025-03-07,Swiggy - Meghana Foods,Food & Drink,666,Expense
+2025-03-08,PVR Cinemas,Entertainment,931,Expense
+2025-03-08,Zomato - Chai Point,Food & Drink,1171.2,Expense
+2025-03-09,Zepto groceries,Groceries,2766,Expense
+2025-03-10,BESCOM Electricity bill,Utilities,1595,Expense
+2025-03-10,Uber auto,Transport,203,Expense
+2025-03-11,Uber auto,Transport,318,Expense
+2025-03-12,Airtel Xstream Fiber,Utilities,999,Expense
+2025-03-14,IndiGo flights BLR-GOI,Travel,9800,Expense
+2025-03-14,Namma Metro recharge,Transport,303,Expense
+2025-03-14,Swiggy - Meghana Foods,Food & Drink,376,Expense
+2025-03-15,Goa homestay (3 nights),Travel,11400,Expense
+2025-03-15,PVR Cinemas,Entertainment,801,Expense
+2025-03-16,Goa - scooter rent + dinner,Travel,3200,Expense
+2025-03-16,Zepto groceries,Groceries,1970,Expense
+2025-03-16,Zomato - Domino's,Food & Drink,491.2,Expense
+2025-03-19,Uber auto,Transport,171,Expense
+2025-03-20,Rapido bike,Transport,178,Expense
+2025-03-22,Bowling - Smaaash,Entertainment,1265,Expense
+2025-03-22,Swiggy - Biryani Blues,Food & Drink,494.4,Expense
+2025-03-23,DMart groceries,Groceries,1690,Expense
+2025-03-23,Swiggy - Meghana Foods,Food & Drink,592.0,Expense
+2025-03-26,Uber auto,Transport,281,Expense
+2025-03-27,Namma Metro recharge,Transport,109,Expense
+2025-03-28,Namma Metro recharge,Transport,182,Expense
+2025-03-30,DMart groceries,Groceries,1634,Expense
+2025-03-31,Namma Metro recharge,Transport,110,Expense
+2025-03-31,Swiggy - Meghana Foods,Food & Drink,607,Expense
+2025-04-01,Salary - Acme Tech Pvt Ltd,Salary,65000,Income
+2025-04-01,Uber auto,Transport,68,Expense
+2025-04-02,Cult.fit membership,Health & Fitness,1500,Expense
+2025-04-03,Nykaa order,Shopping,891,Expense
+2025-04-03,Rent - Mr. Sharma (landlord),Rent,18000,Expense
+2025-04-05,HDFC Mutual Fund SIP,Investment,5000,Expense
+2025-04-05,Swiggy - Meghana Foods,Food & Drink,404.8,Expense
+2025-04-06,Amazon.in order,Shopping,2985,Expense
+2025-04-06,Zepto groceries,Groceries,1987,Expense
+2025-04-07,Namma Metro recharge,Transport,227,Expense
+2025-04-07,Netflix subscription,Entertainment,649,Expense
+2025-04-07,Swiggy - Biryani Blues,Food & Drink,437,Expense
+2025-04-10,BESCOM Electricity bill,Utilities,2400,Expense
+2025-04-10,Uber auto,Transport,181,Expense
+2025-04-12,Airtel Xstream Fiber,Utilities,999,Expense
+2025-04-13,DMart groceries,Groceries,2235,Expense
+2025-04-14,Namma Metro recharge,Transport,85,Expense
+2025-04-15,Uber auto,Transport,253,Expense
+2025-04-16,Rapido bike,Transport,226,Expense
+2025-04-16,Swiggy - Meghana Foods,Food & Drink,313,Expense
+2025-04-17,Cafe Coffee Day,Food & Drink,206,Expense
+2025-04-17,Uber auto,Transport,222,Expense
+2025-04-19,Cafe Coffee Day,Food & Drink,665.6,Expense
+2025-04-20,Apollo Pharmacy,Health & Fitness,1086,Expense
+2025-04-20,BigBasket order,Groceries,2119,Expense
+2025-04-21,Namma Metro recharge,Transport,183,Expense
+2025-04-26,BookMyShow - concert,Entertainment,1311,Expense
+2025-04-26,Swiggy - Meghana Foods,Food & Drink,512.0,Expense
+2025-04-27,BigBasket order,Groceries,1828,Expense
+2025-04-27,Swiggy - Meghana Foods,Food & Drink,862.4,Expense
+2025-04-30,Rapido bike,Transport,280,Expense
+2025-05-01,Cafe Coffee Day,Food & Drink,206,Expense
+2025-05-01,Salary - Acme Tech Pvt Ltd,Salary,65000,Income
+2025-05-01,Uber auto,Transport,115,Expense
+2025-05-02,Cult.fit membership,Health & Fitness,1500,Expense
+2025-05-02,Swiggy - Biryani Blues,Food & Drink,308,Expense
+2025-05-02,Uber auto,Transport,100,Expense
+2025-05-03,Decathlon,Shopping,1176,Expense
+2025-05-03,Rent - Mr. Sharma (landlord),Rent,18000,Expense
+2025-05-03,Swiggy - Biryani Blues,Food & Drink,665.6,Expense
+2025-05-04,Zepto groceries,Groceries,2233,Expense
+2025-05-05,HDFC Mutual Fund SIP,Investment,5000,Expense
+2025-05-05,Namma Metro recharge,Transport,122,Expense
+2025-05-06,Uber auto,Transport,298,Expense
+2025-05-06,Zomato - Domino's,Food & Drink,563,Expense
+2025-05-07,Myntra order,Shopping,3372,Expense
+2025-05-07,Netflix subscription,Entertainment,649,Expense
+2025-05-07,Rapido bike,Transport,119,Expense
+2025-05-08,Nykaa order,Shopping,3340,Expense
+2025-05-08,Uber auto,Transport,228,Expense
+2025-05-09,Swiggy - Meghana Foods,Food & Drink,657,Expense
+2025-05-10,BESCOM Electricity bill,Utilities,2900,Expense
+2025-05-10,PVR Cinemas,Entertainment,745,Expense
+2025-05-11,BigBasket order,Groceries,1449,Expense
+2025-05-12,Airtel Xstream Fiber,Utilities,999,Expense
+2025-05-12,Zomato - Chai Point,Food & Drink,370,Expense
+2025-05-13,Swiggy - Biryani Blues,Food & Drink,418,Expense
+2025-05-14,Uber auto,Transport,250,Expense
+2025-05-14,Zomato - Domino's,Food & Drink,201,Expense
+2025-05-16,Swiggy - Biryani Blues,Food & Drink,192,Expense
+2025-05-18,BigBasket order,Groceries,2220,Expense
+2025-05-18,Swiggy - Meghana Foods,Food & Drink,468.8,Expense
+2025-05-20,Uber auto,Transport,276,Expense
+2025-05-21,Apollo Pharmacy,Health & Fitness,1063,Expense
+2025-05-21,Freelance - logo design client,Freelance,12000,Income
+2025-05-21,Swiggy - Meghana Foods,Food & Drink,519,Expense
+2025-05-23,Uber auto,Transport,281,Expense
+2025-05-24,Zomato - Domino's,Food & Drink,620.8,Expense
+2025-05-25,DMart groceries,Groceries,1999,Expense
+2025-05-25,Zomato - Chai Point,Food & Drink,673.6,Expense
+2025-05-27,Rapido bike,Transport,314,Expense
+2025-05-28,Namma Metro recharge,Transport,298,Expense
+2025-05-30,Rapido bike,Transport,121,Expense
+2025-05-30,Zomato - Domino's,Food & Drink,340,Expense
+2025-05-31,Bowling - Smaaash,Entertainment,1233,Expense
+2025-05-31,Cafe Coffee Day,Food & Drink,769.6,Expense
+2025-06-01,DMart groceries,Groceries,1696,Expense
+2025-06-01,Salary - Acme Tech Pvt Ltd,Salary,65000,Income
+2025-06-01,Zomato - Chai Point,Food & Drink,798.4,Expense
+2025-06-02,Cult.fit membership,Health & Fitness,1500,Expense
+2025-06-02,Nykaa order,Shopping,2373,Expense
+2025-06-03,Rent - Mr. Sharma (landlord),Rent,18000,Expense
+2025-06-03,Swiggy - Meghana Foods,Food & Drink,711,Expense
+2025-06-04,Uber auto,Transport,167,Expense
+2025-06-04,Zomato - Chai Point,Food & Drink,600,Expense
+2025-06-05,HDFC Mutual Fund SIP,Investment,5000,Expense
+2025-06-05,Rapido bike,Transport,164,Expense
+2025-06-06,Rapido bike,Transport,221,Expense
+2025-06-06,Swiggy - Biryani Blues,Food & Drink,440,Expense
+2025-06-07,Bowling - Smaaash,Entertainment,796,Expense
+2025-06-07,Netflix subscription,Entertainment,649,Expense
+2025-06-07,Zomato - Chai Point,Food & Drink,544.0,Expense
+2025-06-08,BigBasket order,Groceries,1748,Expense
+2025-06-08,Cafe Coffee Day,Food & Drink,779.2,Expense
+2025-06-10,BESCOM Electricity bill,Utilities,9800,Expense
+2025-06-12,Airtel Xstream Fiber,Utilities,999,Expense
+2025-06-12,Namma Metro recharge,Transport,226,Expense
+2025-06-12,Zomato - Chai Point,Food & Drink,382,Expense
+2025-06-14,Swiggy - Biryani Blues,Food & Drink,1000.0,Expense
+2025-06-15,Zepto groceries,Groceries,2137,Expense
+2025-06-16,Uber auto,Transport,122,Expense
+2025-06-18,Uber auto,Transport,174,Expense
+2025-06-19,Rapido bike,Transport,146,Expense
+2025-06-20,Rapido bike,Transport,278,Expense
+2025-06-20,Zomato - Chai Point,Food & Drink,606,Expense
+2025-06-21,PVR Cinemas,Entertainment,1078,Expense
+2025-06-21,Zomato - Chai Point,Food & Drink,1022.4,Expense
+2025-06-22,DMart groceries,Groceries,1528,Expense
+2025-06-23,Uber auto,Transport,209,Expense
+2025-06-24,Namma Metro recharge,Transport,319,Expense
+2025-06-27,Uber auto,Transport,279,Expense
+2025-06-27,Zomato - Chai Point,Food & Drink,197,Expense
+2025-06-28,PVR Cinemas,Entertainment,1345,Expense
+2025-06-29,DMart groceries,Groceries,2304,Expense
+2025-06-29,Zomato - Chai Point,Food & Drink,332.8,Expense
+2025-06-30,Uber auto,Transport,283,Expense
+2025-06-30,Zomato - Chai Point,Food & Drink,667,Expense
+2025-07-01,Salary - Acme Tech Pvt Ltd,Salary,65000,Income
+2025-07-02,Cult.fit membership,Health & Fitness,1500,Expense
+2025-07-03,Rent - Mr. Sharma (landlord),Rent,18000,Expense
+2025-07-04,Myntra order,Shopping,2971,Expense
+2025-07-05,HDFC Mutual Fund SIP,Investment,5000,Expense
+2025-07-05,Swiggy - Meghana Foods,Food & Drink,712.0,Expense
+2025-07-06,BigBasket order,Groceries,1634,Expense
+2025-07-06,Swiggy - Biryani Blues,Food & Drink,806.4,Expense
+2025-07-07,Netflix subscription,Entertainment,649,Expense
+2025-07-09,Namma Metro recharge,Transport,294,Expense
+2025-07-10,BESCOM Electricity bill,Utilities,2600,Expense
+2025-07-10,Rapido bike,Transport,146,Expense
+2025-07-11,Rapido bike,Transport,191,Expense
+2025-07-11,Swiggy - Meghana Foods,Food & Drink,692,Expense
+2025-07-12,Airtel Xstream Fiber,Utilities,999,Expense
+2025-07-12,BookMyShow - concert,Entertainment,1023,Expense
+2025-07-13,DMart groceries,Groceries,2396,Expense
+2025-07-13,Zomato - Chai Point,Food & Drink,963.2,Expense
+2025-07-14,Uber auto,Transport,220,Expense
+2025-07-14,Zomato - Domino's,Food & Drink,716,Expense
+2025-07-15,Rapido bike,Transport,263,Expense
+2025-07-16,Rapido bike,Transport,245,Expense
+2025-07-17,Namma Metro recharge,Transport,192,Expense
+2025-07-18,Uber auto,Transport,107,Expense
+2025-07-18,Zomato - Domino's,Food & Drink,674,Expense
+2025-07-19,Zomato - Chai Point,Food & Drink,560.0,Expense
+2025-07-20,Zepto groceries,Groceries,2537,Expense
+2025-07-22,Uber auto,Transport,204,Expense
+2025-07-25,Namma Metro recharge,Transport,195,Expense
+2025-07-25,Swiggy - Biryani Blues,Food & Drink,220,Expense
+2025-07-27,Zepto groceries,Groceries,2326,Expense
+2025-07-27,Zomato - Chai Point,Food & Drink,720.0,Expense
+2025-07-28,Namma Metro recharge,Transport,291,Expense
+2025-07-29,Uber auto,Transport,298,Expense
+2025-07-30,Namma Metro recharge,Transport,103,Expense
+2025-07-30,Swiggy - Biryani Blues,Food & Drink,669,Expense
+2025-07-31,Namma Metro recharge,Transport,113,Expense
+2025-07-31,Swiggy - Meghana Foods,Food & Drink,567,Expense
+2025-08-01,Amazon.in order,Shopping,2028,Expense
+2025-08-01,Salary - Acme Tech Pvt Ltd,Salary,65000,Income
+2025-08-01,Zomato - Chai Point,Food & Drink,198,Expense
+2025-08-02,Cafe Coffee Day,Food & Drink,553.6,Expense
+2025-08-02,Cult.fit membership,Health & Fitness,1500,Expense
+2025-08-03,Rent - Mr. Sharma (landlord),Rent,18000,Expense
+2025-08-03,Zepto groceries,Groceries,2179,Expense
+2025-08-04,Amazon.in order,Shopping,2484,Expense
+2025-08-04,Swiggy - Biryani Blues,Food & Drink,462,Expense
+2025-08-05,HDFC Mutual Fund SIP,Investment,5000,Expense
+2025-08-05,Namma Metro recharge,Transport,299,Expense
+2025-08-06,Swiggy - Meghana Foods,Food & Drink,644,Expense
+2025-08-07,Cafe Coffee Day,Food & Drink,480,Expense
+2025-08-07,Netflix subscription,Entertainment,649,Expense
+2025-08-07,Uber auto,Transport,317,Expense
+2025-08-08,Amazon.in order,Shopping,2182,Expense
+2025-08-08,Swiggy - Meghana Foods,Food & Drink,303,Expense
+2025-08-09,BookMyShow - concert,Entertainment,746,Expense
+2025-08-09,Zomato - Chai Point,Food & Drink,416.0,Expense
+2025-08-10,BESCOM Electricity bill,Utilities,1575,Expense
+2025-08-10,BigBasket order,Groceries,1573,Expense
+2025-08-10,Swiggy - Biryani Blues,Food & Drink,1145.6,Expense
+2025-08-12,Airtel Xstream Fiber,Utilities,999,Expense
+2025-08-12,Namma Metro recharge,Transport,317,Expense
+2025-08-13,Cafe Coffee Day,Food & Drink,637,Expense
+2025-08-14,Amazon.in - headphones,Shopping,3499,Expense
+2025-08-14,Amazon.in - headphones,Shopping,3499,Expense
+2025-08-14,Uber auto,Transport,203,Expense
+2025-08-15,Swiggy - Meghana Foods,Food & Drink,608,Expense
+2025-08-16,PVR Cinemas,Entertainment,1036,Expense
+2025-08-17,Zepto groceries,Groceries,1423,Expense
+2025-08-18,Freelance - logo design client,Freelance,8000,Income
+2025-08-19,Rapido bike,Transport,214,Expense
+2025-08-22,Zomato - Chai Point,Food & Drink,394,Expense
+2025-08-23,Cafe Coffee Day,Food & Drink,644.8,Expense
+2025-08-24,DMart groceries,Groceries,1901,Expense
+2025-08-25,Namma Metro recharge,Transport,189,Expense
+2025-08-28,Uber auto,Transport,186,Expense
+2025-08-29,Swiggy - Biryani Blues,Food & Drink,185,Expense
+2025-08-30,BookMyShow - concert,Entertainment,1282,Expense
+2025-08-30,Zomato - Chai Point,Food & Drink,835.2,Expense
+2025-08-31,Zepto groceries,Groceries,1749,Expense
+2025-09-01,Salary - Acme Tech Pvt Ltd,Salary,65000,Income
+2025-09-01,Swiggy - Biryani Blues,Food & Drink,478,Expense
+2025-09-02,Cult.fit membership,Health & Fitness,1500,Expense
+2025-09-02,Uber auto,Transport,260,Expense
+2025-09-03,Nykaa order,Shopping,2196,Expense
+2025-09-03,Rent - Mr. Sharma (landlord),Rent,18000,Expense
+2025-09-04,Swiggy - Biryani Blues,Food & Drink,729,Expense
+2025-09-05,HDFC Mutual Fund SIP,Investment,5000,Expense
+2025-09-05,Nykaa order,Shopping,1727,Expense
+2025-09-05,Uber auto,Transport,177,Expense
+2025-09-05,Zomato - Domino's,Food & Drink,664,Expense
+2025-09-06,PVR Cinemas,Entertainment,866,Expense
+2025-09-06,Zomato - Chai Point,Food & Drink,1182.4,Expense
+2025-09-07,DMart groceries,Groceries,1565,Expense
+2025-09-07,Netflix subscription,Entertainment,649,Expense
+2025-09-08,Namma Metro recharge,Transport,281,Expense
+2025-09-09,Uber auto,Transport,201,Expense
+2025-09-10,BESCOM Electricity bill,Utilities,1219,Expense
+2025-09-10,Rapido bike,Transport,143,Expense
+2025-09-11,Rapido bike,Transport,306,Expense
+2025-09-12,Airtel Xstream Fiber,Utilities,999,Expense
+2025-09-12,Rapido bike,Transport,73,Expense
+2025-09-12,Zomato - Domino's,Food & Drink,580,Expense
+2025-09-13,Zomato - Domino's,Food & Drink,427.2,Expense
+2025-09-14,Swiggy - Meghana Foods,Food & Drink,428.8,Expense
+2025-09-14,Zepto groceries,Groceries,1524,Expense
+2025-09-18,Rapido bike,Transport,159,Expense
+2025-09-18,Zomato - Domino's,Food & Drink,640,Expense
+2025-09-19,Rapido bike,Transport,101,Expense
+2025-09-19,Zomato - Chai Point,Food & Drink,271,Expense
+2025-09-21,BigBasket order,Groceries,2397,Expense
+2025-09-21,Freelance - logo design client,Freelance,12000,Income
+2025-09-21,Zomato - Chai Point,Food & Drink,977.6,Expense
+2025-09-24,Swiggy - Meghana Foods,Food & Drink,454,Expense
+2025-09-24,Uber auto,Transport,108,Expense
+2025-09-25,Uber auto,Transport,134,Expense
+2025-09-26,Rapido bike,Transport,295,Expense
+2025-09-27,BookMyShow - concert,Entertainment,637,Expense
+2025-09-28,BigBasket order,Groceries,2577,Expense
+2025-09-28,Swiggy - Biryani Blues,Food & Drink,796.8,Expense
+2025-09-30,Namma Metro recharge,Transport,320,Expense
+2025-09-30,Swiggy - Biryani Blues,Food & Drink,662,Expense
+2025-10-01,Namma Metro recharge,Transport,126,Expense
+2025-10-01,Salary - Acme Tech Pvt Ltd,Salary,65000,Income
+2025-10-02,Cult.fit membership,Health & Fitness,1500,Expense
+2025-10-02,Swiggy - Meghana Foods,Food & Drink,610,Expense
+2025-10-02,Uber auto,Transport,196,Expense
+2025-10-03,Rent - Mr. Sharma (landlord),Rent,18000,Expense
+2025-10-03,Zomato - Domino's,Food & Drink,326,Expense
+2025-10-05,BigBasket order,Groceries,1677,Expense
+2025-10-05,HDFC Mutual Fund SIP,Investment,5000,Expense
+2025-10-05,Zomato - Chai Point,Food & Drink,1024.0,Expense
+2025-10-06,Namma Metro recharge,Transport,292,Expense
+2025-10-06,Zomato - Chai Point,Food & Drink,300,Expense
+2025-10-07,Myntra order,Shopping,948,Expense
+2025-10-07,Netflix subscription,Entertainment,649,Expense
+2025-10-07,Uber auto,Transport,284,Expense
+2025-10-08,Nykaa order,Shopping,1168,Expense
+2025-10-08,Swiggy - Biryani Blues,Food & Drink,320,Expense
+2025-10-09,Namma Metro recharge,Transport,166,Expense
+2025-10-10,BESCOM Electricity bill,Utilities,1618,Expense
+2025-10-12,Airtel Xstream Fiber,Utilities,999,Expense
+2025-10-12,DMart groceries,Groceries,1582,Expense
+2025-10-12,Haldiram's sweets & dry fruits,Gifts,4200,Expense
+2025-10-13,Uber auto,Transport,238,Expense
+2025-10-14,Rapido bike,Transport,253,Expense
+2025-10-15,Cafe Coffee Day,Food & Drink,432,Expense
+2025-10-16,Diwali gifts - family,Gifts,9500,Expense
+2025-10-17,Swiggy - Meghana Foods,Food & Drink,241,Expense
+2025-10-18,Cafe Coffee Day,Food & Drink,792.0,Expense
+2025-10-18,Tanishq - silver coin (Dhanteras),Shopping,6800,Expense
+2025-10-19,"Diyas, lights & decor",Shopping,2300,Expense
+2025-10-19,Zepto groceries,Groceries,2278,Expense
+2025-10-21,Fabindia - kurta,Shopping,3900,Expense
+2025-10-21,Uber auto,Transport,89,Expense
+2025-10-22,Namma Metro recharge,Transport,90,Expense
+2025-10-22,Swiggy - Meghana Foods,Food & Drink,567,Expense
+2025-10-23,Uber auto,Transport,299,Expense
+2025-10-24,Cafe Coffee Day,Food & Drink,267,Expense
+2025-10-24,Rapido bike,Transport,272,Expense
+2025-10-25,Swiggy - Meghana Foods,Food & Drink,689.6,Expense
+2025-10-26,Zepto groceries,Groceries,2341,Expense
+2025-10-26,Zomato - Chai Point,Food & Drink,696.0,Expense
+2025-10-27,Uber auto,Transport,141,Expense
+2025-10-28,Uber auto,Transport,129,Expense
+2025-10-29,Namma Metro recharge,Transport,105,Expense
+2025-10-29,Zomato - Domino's,Food & Drink,396,Expense
+2025-10-31,Rapido bike,Transport,69,Expense
+2025-11-01,Salary - Acme Tech Pvt Ltd,Salary,65000,Income
+2025-11-01,Zomato - Domino's,Food & Drink,390.4,Expense
+2025-11-02,Cult.fit membership,Health & Fitness,1500,Expense
+2025-11-02,Flipkart Big Billion - laptop,Shopping,58000,Expense
+2025-11-02,Nykaa order,Shopping,2176,Expense
+2025-11-02,Swiggy - Meghana Foods,Food & Drink,668.8,Expense
+2025-11-02,Zepto groceries,Groceries,1569,Expense
+2025-11-03,Rapido bike,Transport,318,Expense
+2025-11-03,Rent - Mr. Sharma (landlord),Rent,18000,Expense
+2025-11-05,HDFC Mutual Fund SIP,Investment,5000,Expense
+2025-11-05,Namma Metro recharge,Transport,82,Expense
+2025-11-06,Uber auto,Transport,283,Expense
+2025-11-07,Netflix subscription,Entertainment,649,Expense
+2025-11-07,Swiggy - Biryani Blues,Food & Drink,290,Expense
+2025-11-08,Bowling - Smaaash,Entertainment,1212,Expense
+2025-11-08,Cafe Coffee Day,Food & Drink,1070.4,Expense
+2025-11-08,Decathlon,Shopping,2727,Expense
+2025-11-09,Swiggy - Meghana Foods,Food & Drink,716.8,Expense
+2025-11-09,Zepto groceries,Groceries,2105,Expense
+2025-11-10,BESCOM Electricity bill,Utilities,1682,Expense
+2025-11-10,Uber auto,Transport,286,Expense
+2025-11-12,Airtel Xstream Fiber,Utilities,999,Expense
+2025-11-12,Swiggy - Biryani Blues,Food & Drink,445,Expense
+2025-11-14,Cafe Coffee Day,Food & Drink,741,Expense
+2025-11-16,DMart groceries,Groceries,1580,Expense
+2025-11-16,Zomato - Domino's,Food & Drink,761.6,Expense
+2025-11-19,Uber auto,Transport,315,Expense
+2025-11-22,BookMyShow - concert,Entertainment,1183,Expense
+2025-11-23,DMart groceries,Groceries,1977,Expense
+2025-11-23,Swiggy - Biryani Blues,Food & Drink,883.2,Expense
+2025-11-27,Rapido bike,Transport,149,Expense
+2025-11-29,BookMyShow - concert,Entertainment,1343,Expense
+2025-11-30,DMart groceries,Groceries,2709,Expense
+2025-11-30,Zomato - Chai Point,Food & Drink,289.6,Expense
+2025-12-01,Namma Metro recharge,Transport,242,Expense
+2025-12-01,Salary - Acme Tech Pvt Ltd,Salary,65000,Income
+2025-12-02,Cult.fit membership,Health & Fitness,1500,Expense
+2025-12-02,Swiggy - Biryani Blues,Food & Drink,379,Expense
+2025-12-03,Namma Metro recharge,Transport,118,Expense
+2025-12-03,Rent - Mr. Sharma (landlord),Rent,18000,Expense
+2025-12-05,Cafe Coffee Day,Food & Drink,731,Expense
+2025-12-05,HDFC Mutual Fund SIP,Investment,5000,Expense
+2025-12-05,Namma Metro recharge,Transport,113,Expense
+2025-12-06,Myntra order,Shopping,2438,Expense
+2025-12-06,PVR Cinemas,Entertainment,938,Expense
+2025-12-06,Zomato - Chai Point,Food & Drink,625.6,Expense
+2025-12-07,Amazon.in order,Shopping,2285,Expense
+2025-12-07,Amazon.in order,Shopping,2520,Expense
+2025-12-07,DMart groceries,Groceries,2317,Expense
+2025-12-07,Netflix subscription,Entertainment,649,Expense
+2025-12-07,Swiggy - Meghana Foods,Food & Drink,1179.2,Expense
+2025-12-09,Swiggy - Biryani Blues,Food & Drink,498,Expense
+2025-12-10,BESCOM Electricity bill,Utilities,1163,Expense
+2025-12-10,Uber auto,Transport,232,Expense
+2025-12-12,Airtel Xstream Fiber,Utilities,999,Expense
+2025-12-12,Uber auto,Transport,154,Expense
+2025-12-13,PVR Cinemas,Entertainment,843,Expense
+2025-12-13,Swiggy - Meghana Foods,Food & Drink,548.8,Expense
+2025-12-14,DMart groceries,Groceries,2325,Expense
+2025-12-15,Namma Metro recharge,Transport,161,Expense
+2025-12-19,Freelance - logo design client,Freelance,8000,Income
+2025-12-20,BookMyShow - concert,Entertainment,486,Expense
+2025-12-21,DMart groceries,Groceries,1977,Expense
+2025-12-23,Swiggy - Meghana Foods,Food & Drink,637,Expense
+2025-12-24,Cafe Coffee Day,Food & Drink,470,Expense
+2025-12-24,Namma Metro recharge,Transport,91,Expense
+2025-12-25,Swiggy - Biryani Blues,Food & Drink,651,Expense
+2025-12-27,BookMyShow - concert,Entertainment,651,Expense
+2025-12-27,Zomato - Chai Point,Food & Drink,761.6,Expense
+2025-12-28,Zepto groceries,Groceries,2735,Expense
+2025-12-28,Zomato - Domino's,Food & Drink,1041.6,Expense
+2025-12-29,Uber auto,Transport,161,Expense
